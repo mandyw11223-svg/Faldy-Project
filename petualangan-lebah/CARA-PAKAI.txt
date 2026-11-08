@@ -1,0 +1,21 @@
+PETUALANGAN LEBAH - MISI PENYERBUKAN
+====================================
+1. Buka folder ini di VS Code.
+2. Pasang ekstensi "Live Server", klik kanan index.html -> "Open with Live Server".
+   (Jangan klik dua kali file-nya, supaya video YouTube bisa tampil.)
+3. Klik tombol di pojok kiri bawah untuk layar penuh.
+
+STRUKTUR
+  index.html   halaman utama
+  style.css    tampilan
+  game.js      logika game (posisi tombol, jawaban benar, link video)
+  voice.js     PENGATURAN SUARA - ganti file audio / kalimat di sini
+  assets/images   slide 1-15 (ukuran 1920x1080)
+  assets/labels   label bagian bunga (dipotong dari slide 16)
+  assets/tray     gambar penyerbuk (dipotong dari slide 10)
+  assets/audio    taruh file suara (.mp3) di sini, lihat BACA-SAYA.txt
+
+MENGUBAH ISI
+  - Link video YouTube : cari "tMnggE3SnUs" di game.js
+  - Suara & kalimat    : voice.js
+  - Kunci jawaban kuis : game.js, fungsi SC[11] sampai SC[15]
