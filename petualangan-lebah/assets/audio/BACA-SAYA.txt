@@ -1,0 +1,43 @@
+CARA MENGGANTI SUARA
+====================
+1. Rekam / buat suara kamu, simpan sebagai .mp3 (atau .wav / .ogg).
+2. Taruh filenya di folder ini (assets/audio/).
+3. Nama file harus sama dengan yang tertulis di voice.js
+   (atau ubah nama file di voice.js, bagian  file:'...').
+4. Kalau file tidak ada, game otomatis memakai suara komputer (bahasa Indonesia).
+
+DAFTAR NAMA FILE YANG DIKENALI GAME
+-----------------------------------
+benar.mp3              <- benar
+salah.mp3              <- salah
+selesai.mp3            <- selesai
+hasil.mp3              <- hasil
+s8_start.mp3           <- s8_start
+s8_ks.mp3              <- s8_ks
+s8_kp.mp3              <- s8_kp
+s8_mb.mp3              <- s8_mb
+s8_ss.mp3              <- s8_ss
+s9_start.mp3           <- s9_start
+s9_ambil.mp3           <- s9_ambil
+s9_jatuh.mp3           <- s9_jatuh
+s10_start.mp3          <- s10_start
+s10_air.mp3            <- s10_air
+s10_hewan.mp3          <- s10_hewan
+s10_angin.mp3          <- s10_angin
+s10_manusia.mp3        <- s10_manusia
+q11.mp3                <- q11
+q11_benar.mp3          <- q11_benar
+q12.mp3                <- q12
+q12_benar.mp3          <- q12_benar
+q13.mp3                <- q13
+q13_a.mp3              <- q13_a
+q13_b.mp3              <- q13_b
+q13_c.mp3              <- q13_c
+q13_benar.mp3          <- q13_benar
+s14_start.mp3          <- s14_start
+s14_bs.mp3             <- s14_bs
+s14_pt.mp3             <- s14_pt
+s14_nk.mp3             <- s14_nk
+s15_start.mp3          <- s15_start
+s15_sendiri.mp3        <- s15_sendiri
+s15_silang.mp3         <- s15_silang
